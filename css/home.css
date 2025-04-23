@@ -1,0 +1,17 @@
+.home-container {
+    background-color: #E7E7EA;
+}
+
+.home-container > .container {
+    display: flex;
+    align-items: center;
+    height: 510px;
+}
+
+.home-container > .container .chair-image {
+    height: 100%;
+}
+
+.home-container > .container .supersale {
+    width: 450px;
+}
