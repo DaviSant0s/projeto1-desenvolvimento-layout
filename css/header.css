@@ -1,0 +1,76 @@
+header {
+    background-color: white;
+}
+
+header > .container {
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+}
+
+.header-content {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 78px;
+}
+
+.header-content > .logo > img{
+    height: 23px;
+}
+
+.welcome-and-cart-container {
+    display: flex;
+    justify-content: center;
+    align-items: end;
+    gap: 24px;
+}
+
+.welcome-profile {
+    display: flex;
+    align-items: end;
+}
+
+.welcome-profile > .profile-logo {
+    font-size: 33px;
+    font-weight: 100;
+    color: #005CFF;
+    margin-bottom: -3px;
+}
+
+.welcome-profile > .client-name > span {
+    display: block;
+    line-height: 100%;
+    font-size: 14px;
+    font-weight: 600;
+}
+
+.welcome-and-cart-container > .cart {
+    display: flex;
+    justify-content: end;
+    align-items: center;
+}
+
+.menu-header-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 22px;
+    width: 100%;
+    margin-bottom: 18px;
+}
+
+.menu-header-container > span {
+    cursor: pointer;
+}
+
+.categories-menu-header {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+}
+
+.categories-menu-header > span {
+    font-weight: 700;
+    cursor: pointer;
+}

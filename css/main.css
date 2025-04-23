@@ -1,0 +1,14 @@
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 20px;
+}
+
+section {
+    width: 100%;
+}
+
+.home-container {
+    background-color: #E7E7EA;
+    height: 510px;
+}
