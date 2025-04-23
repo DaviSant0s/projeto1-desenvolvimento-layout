@@ -1,0 +1,20 @@
+{
+  "name": "projeto1-desenvolvimento-layout",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DaviSant0s/projeto1-desenvolvimento-layout.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DaviSant0s/projeto1-desenvolvimento-layout/issues"
+  },
+  "homepage": "https://github.com/DaviSant0s/projeto1-desenvolvimento-layout#readme"
+}
